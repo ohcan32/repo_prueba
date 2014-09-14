@@ -4,3 +4,8 @@
   app.controller('StoreController', function(){});
 
 })();
+public void calcular()
+
+{
+  System.out.println("Hola mundo");
+}
